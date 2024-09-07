@@ -12,7 +12,9 @@
 
 - ⚡ Fun fact **I am completely into coding🧑‍💻😵‍💫 that's the reason I am not at all funny😅**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">My portfolio website</h3>
+<p align="left"><a href="https://afthab-sheikh.vercel.app">afthab-sheikh.versel.app</a></p>
+<h3 align="left">Connect>Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/afthab-sheikh11710" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="afthab-sheikh11710" height="30" width="40" /></a>
 <a href="https://instagram.com/_sheikh_z_11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_sheikh_z_11" height="30" width="40" /></a>
