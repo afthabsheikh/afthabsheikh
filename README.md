@@ -10,7 +10,7 @@
 
 - 📫 You can reach me through **afthabsheikh11710@gmail.com**
 
-- ⚡ Fun fact **I am completely into coding🧑‍💻😵‍💫 that's the reason I am not at all funny😅**
+- ⚡ Fun fact **I am completely into coding 💻😵 that's the reason I am not at all funny😅**
 
 <h3 align="left">My portfolio website</h3>
 <p align="left"><a href="https://afthab-sheikh.vercel.app">afthab-sheikh.versel.app</a></p>
