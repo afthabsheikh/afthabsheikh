@@ -1,6 +1,6 @@
 # Hello world
 <h1 align="center"> 👋, I'm Afthab sheikh</h1>
-<h3 align="center">A passionate and dedicated web & developer from Mangalore,India</h3>
+<h3 align="center">A passionate and dedicated web developer from Mangalore, India</h3>
 
 - 🧑‍💻 I'm a **BCA graduate**
 
